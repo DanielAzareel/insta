@@ -1,0 +1,12 @@
+# frontend
+frontend/node_modules
+frontend/dist
+frontend/.env
+
+# backend
+**/bin
+**/obj
+
+# misc
+.vscode
+.DS_Store
